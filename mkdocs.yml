@@ -19,8 +19,8 @@ theme:
         icon: material/brightness-7
         name: Switch to dark mode
 
-repo_url: https://github.com/alvinbengeorge/alfred-discord-bot
-repo_name: AlfredDiscordBot/Alfred
+repo_url: https://github.com/AlfredDiscordBot/alfred-discord-bot
+repo_name: AlfredDiscordBot/alfred-discord-bot
 
 edit_uri: ''
 
