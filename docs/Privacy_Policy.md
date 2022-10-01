@@ -1,5 +1,5 @@
 # Your data is yours 
-![image](https://ashishja.in/wp-content/uploads/2021/06/data-really-yours-correct.png)
+![image](https://github.com/CyberVarun/AlfredDiscordBot.github.io/blob/main/docs/assets/data-really-yours-correct.png?raw=true)
 
 # Message from the Developer
 
