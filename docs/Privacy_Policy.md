@@ -26,15 +26,13 @@ We have message intent enabled as there's an AI which will respond to you, you c
 
 # Here's a list of everything we collect
 - [x] Channel IDs for updates like security alert 
-- [x] Guild (another name for server) IDs for Music queue 
-- [x] User IDs for playlist
 - [x] Channel and Server IDs for configuration
 - [x] Server IDs for prefix `[Optional]`
 
 If you see above, most of these are Server, User and Channel IDs, we do not store anything specific like list of channels, messages, etc.
 
 !!! note "" 
-    All of these are optional, Alfred is a moderation, music and memes bot, and we get your concern about your privacy, but it's as easy as joining our support server and opening a ticket.
+    All of these are optional, Alfred is a moderation, and memes bot, and we get your concern about your privacy, but it's as easy as joining our support server and opening a ticket.
 
 # Security of our Github Branch/Repository
 
